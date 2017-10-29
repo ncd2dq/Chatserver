@@ -49,3 +49,14 @@ class Server(object):
 		for connection in self.connections:
 			connection.send(msg)
 
+	def run(self):
+		self._handle_connections()
+
+
+def main():
+	server = Server()
+	server.run()
+
+if __name__ == '__main__':
+	main()
+
