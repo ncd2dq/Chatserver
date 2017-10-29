@@ -1,0 +1,1 @@
+'''This module runs the chat program through the command line'''
