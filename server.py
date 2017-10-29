@@ -18,6 +18,7 @@ class Server(object):
 		'''
 		This method will create a chat thread for all socket-client connections
 		'''
+		print('Waiting for connections...')
 		while True:
 			conn, addr = self.s.accept()
 			self.connections.append(conn)
