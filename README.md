@@ -1,12 +1,10 @@
--Local Hosting
+-Local Hosting <br />
+Run the server.py file first  <br />
+Run the chat.py file second  <br />
 
-Run the server.py file first
-Run the chat.py file second
 
-
--Web Hosting
-
-Open the server.py file and change the IP / PORT at top
-Open the chat.py file and change the IP / PORT to the server's info
-Run the server.py file first
-Run the chat.py file second
+-Web Hosting <br />
+Open the server.py file and change the IP / PORT at top <br />
+Open the chat.py file and change the IP / PORT to the server's info <br />
+Run the server.py file first <br />
+Run the chat.py file second <br />
